@@ -1,0 +1,2 @@
+These are the research build scripts and ARM tests behind the distributed patch.
+They require the matching decompressed executable and original header from your own USA Rev 1 dump, plus recorded pose fixtures for some tests. Those game-derived inputs are not included. Place private inputs in the patch directory when adapting these scripts. The tested distributable is ../code.ips; the cave and external helper assembly are in ../source.

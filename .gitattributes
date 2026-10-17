@@ -1,0 +1,4 @@
+# Preserve release hashes across checkouts on different platforms.
+* -text
+*.exe binary
+*.ips binary

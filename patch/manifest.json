@@ -1,0 +1,18 @@
+{
+  "name": "Super Mario 3D Land native 60 FPS rendering preview",
+  "version": "0.2-preview",
+  "date": "2026-10-18",
+  "game_region_revision": "USA Rev 1",
+  "title_id": "0004000000054000",
+  "rom_bytes": 536870912,
+  "rom_sha256": "002da038529ce5467b14aa2461dce3304ab53260fd984e259e8814b98fd4d0fd",
+  "original_exheader_sha256": "01f86be6de4921dfda7aa74c390ab3243ba981482140bc8efb0c62fc51697b70",
+  "patched_exheader_sha256": "eb5b98f4e27c7370d2d20513580cf77220ef173f7fcda59ab76d27cf6be10b2d",
+  "patch_sha256": "6cdc315748eb2eb1461ed5447bb9fdb65b195d49f4237bd760bbf5166bd2004f",
+  "original_code_sha256": "c705711154b1c514d7a0b5d133fabff42834110b198bd4cf86397d0d1c1597e9",
+  "render_hz_target": 60,
+  "simulation_hz": 30,
+  "status": "User-tested preview; full-game validation incomplete",
+  "tested_emulator": "Project Azahar 2126.2 validation build; other builds not yet tested",
+  "tested_emulator_exe_sha256": "e6d76f0bdf35a935e128265100a6db39ff559f1e14c5af6520175be65f89e84e"
+}

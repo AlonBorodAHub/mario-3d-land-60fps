@@ -1,0 +1,48 @@
+{
+  "installer": {
+    "rom_folder_and_quoted_folder_supported": true,
+    "empty_folder_clear_error": true,
+    "wrong_rom_rejected": true,
+    "clean_install_remove": true,
+    "passed": true,
+    "live_emulator_or_user_mods_changed": false,
+    "modified_installed_files_protected": true,
+    "previous_patch_backup_restore": true,
+    "duplicate_install_rejected": true,
+    "actual_rom_header_matches_validated_build": true
+  },
+  "native_arm": {
+    "passed": true,
+    "rigid_and_unrelated_render_cases": 720,
+    "recorded_main_body_render_cases": 480,
+    "native_dispatcher_cases": 32,
+    "scope": "Exact integrated capture/selection/render with native ARM matrix math; left/right four-bone rigid gloves, unrelated four-bone models, recorded main body palettes, both repeated eye draws, true-pose restore, phase gaps, lifetime invalidation, register and floating-point preservation. Rigid random tests use consecutive rotations within 0.15 radians and endpoint scales 0.7..1.5. No emulator visual claim."
+  },
+  "input_cases": 121,
+  "user_confirmation": {
+    "date": "2026-10-18",
+    "symptom": "Whole-glove lag during jumps with camera movement",
+    "answer": "Disappeared"
+  },
+  "live_glove_capture": {
+    "input_restored": true,
+    "frames": 120,
+    "stable_even_hand_samples": 22,
+    "maximum_even_translation_error": 0.0,
+    "stable_odd_hand_samples": 70,
+    "maximum_odd_true_pose_error": 0.0,
+    "maximum_native_world_vs_true_cache_error": 0.0,
+    "callback_delta": 499,
+    "simulation_delta": 250,
+    "visual_assessment": "pending"
+  },
+  "windows_ui": {
+    "passed": true,
+    "compiled_windows_forms_ui": true,
+    "offscreen_form_render_visually_reviewed": true,
+    "local_azahar_and_recent_mario_detected": true,
+    "hidden_backend_rom_compatibility_check": true,
+    "existing_patch_status_matches_installed_bytes": true,
+    "live_installation_changed_during_tests": false
+  }
+}

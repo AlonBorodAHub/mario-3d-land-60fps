@@ -1,0 +1,26 @@
+# Local configuration, ROMs, original game inputs, recordings and profiles
+recording-config.json
+analysis.json
+Azahar*/
+user/
+recorder/
+**/__pycache__/
+*.pyc
+*.3ds
+*.3dsx
+*.cia
+*.app
+*.cxi
+*.mp4
+*.mkv
+*.wav
+*.smdh
+*.log
+*.lnk
+**/exheader.bin
+**/code-decompressed.bin
+**/code-compressed.bin
+*.keys
+*.pem
+*.pfx
+.env*
